@@ -4,11 +4,10 @@ Este proyecto presenta el desarrollo de una aplicación móvil diseñada para ma
 
 # Descripción
 
-Las plantas son seres vivos que son de vital importancia para la naturaleza, por su importante función de proveer oxígeno, alimento, madera, combustible y diferentes remedios, también son muy utilizadas por sus características ornamentales. Además, de ser el hábitat de numerosas especies de animales, regulan la temperatura y proporcionan un equilibrio en los ecosistemas (R.Castañeda Sifuentes, J Albán Castillo, 2016).
-
-En los hogares colombianos, el cuidado de las plantas juega un papel crucial no solo en la estética del entorno, sino también en la promoción del bienestar y la conexión con la naturaleza. Sin embargo, muchas personas no tienen el conocimiento y las herramientas necesarias para mantener sus plantas saludables y prolongar su vida.
-
-Para este problema se propone como solución el desarrollo de una aplicación móvil que maneja una base de datos para dar información sobre el cuidado de las plantas domésticas de la provincia de Ubaté. Con esta herramienta se busca hacer que las personas sepan darle un mejor cuidado y mejorar la salud de las plantas.
+Las plantas son seres vivos que son de vital importancia para la naturaleza, por su función de proveer oxígeno, alimento, madera, combustible y diferentes remedios. También son ampliamente utilizadas por sus características ornamentales. Además de ser el hábitat de numerosas especies de animales, las plantas regulan la temperatura y contribuyen al equilibrio de los ecosistemas (R. Castañeda Sifuentes, J. Albán Castillo, 2016).
+En los hogares colombianos, el cuidado de las plantas juega un papel crucial no solo en la estética del entorno, sino también en la promoción del bienestar y la conexión con la naturaleza. Sin embargo, muchas personas no cuentan con el conocimiento ni las herramientas necesarias para mantener sus plantas saludables y prolongar su vida.
+Para este problema se propone como solución el desarrollo de una aplicación móvil que maneja una base de datos para brindar información sobre el cuidado de las plantas domésticas de la provincia de Ubaté. Con esta herramienta se busca que las personas aprendan a dar un mejor cuidado y mejorar la salud de sus plantas.
+La aplicación fue desarrollada en Android Studio utilizando el lenguaje Kotlin.
 
 # Objetivo General
 
