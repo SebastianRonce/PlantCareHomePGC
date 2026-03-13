@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "42675388216",
+    "project_id": "loginplantcarehome",
+    "storage_bucket": "loginplantcarehome.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42675388216:android:65121e02a4a0cce0970bcd",
+        "android_client_info": {
+          "package_name": "com.example.plantcarehomepgc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm_oAoacS7SLl6xoXOXJen8N010IKK6Lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
