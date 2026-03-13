@@ -9,15 +9,10 @@ En los hogares colombianos, el cuidado de las plantas juega un papel crucial no 
 Para este problema se propone como solución el desarrollo de una aplicación móvil que maneja una base de datos para brindar información sobre el cuidado de las plantas domésticas de la provincia de Ubaté. Con esta herramienta se busca que las personas aprendan a dar un mejor cuidado y mejorar la salud de sus plantas.
 La aplicación fue desarrollada en Android Studio utilizando el lenguaje Kotlin.
 
-# Objetivo General
+# Objetivo 
 
 Desarrollar una aplicación móvil que ayude a los usuarios en la búsqueda y visualización de información detallada de especies de plantas nativas para su cuidado.
 
-# Objetivos Específicos
-
-1. Recolectar información sobre las plantas de la provincia de Ubaté.
-2. Ingresar la información en una herramienta de recolección de datos.
-3. Diseñar el aplicativo móvil.
 
 # Autores
 
