@@ -4,12 +4,22 @@ import androidx.compose.runtime.Composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.NavHost
+import com.google.firebase.Firebase
+import com.google.firebase.auth.auth
 
 @Composable
 fun NavigationApp() {
     val myNavController = rememberNavController()
-    val myStartDestination = "login"
+    var myStartDestination = "login"
 
+    val auth = Firebase.auth
+    val currentUser = auth.currentUser
+
+    if (currentUser != null){
+        myStartDestination = "home"
+    }else{
+        myStartDestination = "login"
+    }
     NavHost(
         navController = myNavController,
         startDestination = myStartDestination,
