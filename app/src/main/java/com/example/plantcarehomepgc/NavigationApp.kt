@@ -8,6 +8,7 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.NavHost
 import androidx.navigation.navArgument
 import com.example.plantcarehomepgc.data.repository.AuthRepository
+import com.example.plantcarehomepgc.data.repository.FavoriteRepository
 import com.example.plantcarehomepgc.data.repository.PlantRepository
 import com.example.plantcarehomepgc.data.repository.UserRepository
 import com.example.plantcarehomepgc.presentation.auth.*
@@ -34,8 +35,9 @@ fun NavigationApp() {
     val authRepository = AuthRepository(auth)
     val userRepository = UserRepository(firestore)
     val plantRepository = PlantRepository(firestore)
+    val favoriteRepository = FavoriteRepository(firestore)
     
-    val authFactory = AuthViewModelFactory(authRepository, userRepository, plantRepository)
+    val authFactory = AuthViewModelFactory(authRepository, userRepository, plantRepository, favoriteRepository)
 
     NavHost(
         navController = navController,

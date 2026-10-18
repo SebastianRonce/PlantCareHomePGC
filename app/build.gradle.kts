@@ -52,6 +52,7 @@ dependencies {
     implementation(libs.androidx.compose.material3)
     implementation(libs.androidx.compose.material.icons.extended)
     implementation(libs.androidx.compose.foundation)
+    implementation(libs.coil.compose)
     
     // Coroutines & Firebase Support
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-play-services:1.9.0")
