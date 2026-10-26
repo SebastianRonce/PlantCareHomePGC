@@ -108,7 +108,7 @@ Desarrollar una aplicación móvil que ayude a los usuarios en la búsqueda y co
 | Catálogo de plantas desde Firestore | ✅ Implementado |
 | Búsqueda por nombre o código | ✅ Implementado |
 | Detalle de cada planta con imagen | ✅ Implementado |
-| Plantas favoritas | ✅ Implementado |
+| Plantas favoritas | 🚧 En desarrollo |
 | Perfil de usuario (editar nombre y cerrar sesión) | ✅ Implementado |
 | Historial de cuidados | 🚧 En desarrollo |
 | Calendario de riego y recordatorios | 🚧 En desarrollo |
@@ -159,8 +159,8 @@ users/{uid}/favorites/{plantId}  → favoritas de cada usuario
 **Opción A: clonar con Git**
 
 ```bash
-git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
-cd TU_REPOSITORIO
+git clone https://github.com/SebastianRonce/PlantCareHomePGC.git
+cd PlantCareHomePGC
 ```
 
 **Opción B: descargar el ZIP (sin Git)**
