@@ -173,7 +173,7 @@ cd PlantCareHomePGC
 
 La aplicación necesita el archivo `google-services.json` para conectarse a Firebase (Authentication y Firestore). Si no se encuentra en la carpeta `app/`, entonces sigan los siguientes pasos.
 
-1. Descargar `google-services.json` desde el enlace de OneDrive entregado junto con el proyecto: **[https://mailunicundiedu-my.sharepoint.com/:f:/r/personal/jronceria_ucundinamarca_edu_co/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjronceria%5Fucundinamarca%5Fedu%5Fco%2FDocuments%2FAnexos%20PlantCareHome%2Fgoogle%2Dservices%2Ejson&share=cgr4Nu75oSdWRoLWmsltgVu%2DEgUCRpa2nQQzO%5FCZeyIuYxszrw]**.
+1. Descargar `google-services.json` desde este enlace de OneDrive: [Descargar google-services.json](https://mailunicundiedu-my.sharepoint.com/:f:/r/personal/jronceria_ucundinamarca_edu_co/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjronceria%5Fucundinamarca%5Fedu%5Fco%2FDocuments%2FAnexos%20PlantCareHome%2Fgoogle%2Dservices%2Ejson&share=cgr4Nu75oSdWRoLWmsltgVu%2DEgUCRpa2nQQzO%5FCZeyIuYxszrw)
 2. Copiarlo en la carpeta `app/` del proyecto, de modo que quede en `app/google-services.json`.
 
 
