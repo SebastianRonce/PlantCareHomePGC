@@ -211,19 +211,6 @@ app/build/outputs/apk/debug/app-debug.apk
 
 Ese archivo puede copiarse a un teléfono Android e instalarse directamente (es necesario permitir la instalación desde orígenes desconocidos).
 
-### Instalar sin compilar
-
-<!-- Opcional: subir el APK en GitHub → Releases y poner aquí el enlace -->
-Para probar la aplicación sin configurar el entorno de desarrollo, se puede descargar el APK desde la sección **[Releases](https://github.com/TU_USUARIO/TU_REPOSITORIO/releases)** e instalarlo en un teléfono Android.
-
-### Uso de la aplicación
-
-1. Abrir la app y pulsar **Regístrate** para crear una cuenta con correo electrónico y contraseña (mínimo 8 caracteres y al menos un símbolo especial).
-2. Iniciar sesión.
-3. En la pantalla principal, explorar el catálogo, buscar por nombre o código, y abrir el detalle de una planta.
-4. Marcar plantas como favoritas y filtrarlas.
-5. Desde **Perfil**, editar el nombre de usuario o cerrar sesión.
-
 ### Solución de problemas frecuentes
 
 | Problema | Solución |
@@ -259,21 +246,6 @@ app/src/main/java/com/example/plantcarehomepgc/
 ## 🔄 Metodología de trabajo
 
 El proyecto se desarrolla con **Scrum**: iteraciones cortas (sprints), con Product Backlog, Sprint Backlog e incrementos funcionales. El trabajo se organiza en tres épicas (gestión de usuarios, consulta y cuidado, seguimiento del cuidado) y cuatro sprints, con tablero en Trello y cronograma de actividades.
-
----
-
-## 📎 Evidencias y enlaces
-
-| Evidencia | Enlace |
-|---|---|
-| 🎬 Video de demostración | [YouTube](https://www.youtube.com/watch?v=TU_VIDEO_ID) |
-| 📊 Análisis de la encuesta | [Enlace](ENLACE) |
-| 🗓️ Cronograma | [Enlace](ENLACE) |
-| 📋 Planeación ágil (User Stories y Story Map) | [Enlace](ENLACE) |
-| 📑 Requerimientos y diagramas | [Enlace](ENLACE) |
-| 🎨 Mockups en Figma | [Enlace](ENLACE) |
-| 📈 Mediciones de rendimiento | [Enlace](ENLACE) |
-| 🧪 Informe de usabilidad | [Enlace](ENLACE) |
 
 ---
 
